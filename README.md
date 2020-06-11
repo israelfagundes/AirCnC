@@ -19,16 +19,16 @@ AirCnC
 ### :computer: Web
 
 <div align="center">
-  <img src="github/spotlist.png" alt="demo-web" height="240">
+  <img src="github/spotlist.png" alt="demo-web" height="240"> 
   <img src="github/spotregistry.png" alt="demo-web" height="240">
 </div>
 
 ### :iphone: Mobile
 
 <div align="center">
-  <img src="github/login.jpeg" alt="demo-mobile" height="240">
-  <img src="github/spotlistmobile.jpeg" alt="demo-mobile" height="240">
-  <img src="github/booking.jpeg" alt="demo-mobile" height="240">
+  <img src="github/login.jpeg" alt="demo-mobile" height="450"> 
+  <img src="github/spotlistmobile.jpeg" alt="demo-mobile" height="450"> 
+  <img src="github/booking.jpeg" alt="demo-mobile" height="450">
 </div>
 
 <hr />
