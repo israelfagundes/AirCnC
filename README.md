@@ -66,6 +66,6 @@ AirCnC
 3. Rode o comando `yarn start` para iniciar o Expo
 4. No seu smartphone, instale o aplicativo `Expo`, e escaneie o QR Code para iniciar o aplicativo.
 
-## License
+## :memo: Licença
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
